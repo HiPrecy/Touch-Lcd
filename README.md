@@ -1,5 +1,8 @@
-
 # Touch Lcd
+
+This UI only work with LEO 1.1.x firmware.
+
+https://github.com/HiPrecy/Firmware-HiPrecy/tree/LEO/1.1.x
 
 ## Uploade screen firmware to screen
 
