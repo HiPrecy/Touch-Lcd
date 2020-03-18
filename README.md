@@ -1,6 +1,10 @@
 
 # Touch Lcd
 
+This UI only work with Marlin 2.0.x firmware.
+
+
+
 ## Uploade screen firmware to screen
 
 Step 1：Format the TF card and copy files
@@ -19,3 +23,4 @@ Step 2：Flash the firmware to TF card
 Insert the TF card into the card socket (left slot at back side of the screen) ,and then power on the screen. 
 Wait for the blue screen and appear on the first line of the screen “SD Card Process... END !” it’s may take 1-2minutes.
 Turn off the power and re-power the screen Wait for the boot screen，it’s may take 1-5s.
+
