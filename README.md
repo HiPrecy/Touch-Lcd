@@ -1,9 +1,9 @@
 
 # Touch Lcd
 
-This UI only work with Marlin 2.0.x firmware.
+This UI only work with LEO 2.0.x firmware.
 
-
+https://github.com/HiPrecy/Firmware-HiPrecy/tree/LEO/2.0.x
 
 ## Uploade screen firmware to screen
 
