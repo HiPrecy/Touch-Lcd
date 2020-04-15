@@ -3,7 +3,9 @@
 
 This UI only work with LEO 2.0.x firmware.
 
-https://github.com/HiPrecy/Firmware-HiPrecy/tree/LEO/2.0.x
+TMC2130: https://github.com/HiPrecy/Firmware-HiPrecy/tree/LEO/2.0.x
+
+TMC2209: https://github.com/HiPrecy/Firmware-HiPrecy/tree/LEO/2.0.x-TMC2209
 
 ## Uploade screen firmware to screen
 
