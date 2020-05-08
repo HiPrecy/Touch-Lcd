@@ -1,8 +1,10 @@
 # Touch Lcd
 
-This UI only work with LEO 1.1.x firmware.
+This UI only work with LEO 2.0.x firmware.
 
-https://github.com/HiPrecy/Firmware-HiPrecy/tree/LEO/1.1.x
+https://github.com/HiPrecy/Firmware-HiPrecy/tree/LEO/2.0.x
+
+https://github.com/HiPrecy/Firmware-HiPrecy/tree/LEO/2.0.x-TMC2209
 
 ## Uploade screen firmware to screen
 
